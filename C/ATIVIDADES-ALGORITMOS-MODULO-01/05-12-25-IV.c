@@ -270,7 +270,7 @@ int pertence(int num, int vetor[]){
         if(num == vetor[i]){
             return 1;
         }
-    }
+    } 
     return 0;
 }
 
