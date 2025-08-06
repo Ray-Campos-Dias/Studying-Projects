@@ -13,7 +13,7 @@ int main(void) {
 	}
 	else {
 		printf ("O maior e %d", b) ;
-	}
+	} 
 
 	return 0;
 }
