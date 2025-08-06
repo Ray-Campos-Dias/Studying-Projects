@@ -67,7 +67,7 @@ int main(void){
         }else{
             result *= 0.005;
         }
-    }
+    } 
     printf("O montanto final é: %.5f", result);
     return 0;
-}
+}  
