@@ -116,7 +116,7 @@ int main(void){
     }
     printf("Tempo necessario: %i", cont);
     return 0;
-}
+}  
 
 //7. Faça um algoritmo que calcule o fatorial de um número.
 #include <stdio.h>
